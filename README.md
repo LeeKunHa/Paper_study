@@ -1,5 +1,6 @@
 # Paper_study
 This page is an archive of the Deep Learning Paper Reading study.
+- Personal review of papers will be updated in https://velog.io/@kunha98
  
 | Title | Field | Link | Performance Task | Review | publication |
 |:---------------:|:-------------:|:-------------:|:-------------:|-------------:|:-------------:|
